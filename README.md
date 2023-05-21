@@ -14,7 +14,7 @@ A funny fact about this GitHub profile is that it was created in late 2022 when 
 ### My GitHub Stat 📈
 <p >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=v4r3j4o&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v4r3j4o&layout=compact&langs_count=6&theme=dark"/>
+ 
 </p>
 
 ### Some of the tools I use 🛠️
