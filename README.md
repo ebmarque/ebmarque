@@ -19,10 +19,11 @@ A funny fact about this GitHub profile is that it was created in late 2022 when 
 </p>
 
 ### Some of the tools I use 🛠️
-[![C Badge](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)](https://www.cprogramming.com/)
-[![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)](https://www.linux.org/)
-[![Vim Badge](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white)](https://www.vim.org/)
-[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,linux,c,vscode,bash,github" />
+  </a>
+</p>
 
 
 <!-- Projects -->
