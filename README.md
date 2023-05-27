@@ -29,13 +29,13 @@ A funny fact about this GitHub profile is that it was created in late 2022 when 
 <!-- Projects -->
 ### My recent projects💻
 <h3>Born2beroot</h3>
-<a href=""><img src="https://badge42.vercel.app/api/v2/clhnwlexk001108jtzp0aw03j/project/3086021" alt="ebmarque's 42 Born2beroot Score" /></a><br>
+<a href="https://github.com/V4R3J4O/Born2BeRoot#born2beroot"><img src="https://badge42.vercel.app/api/v2/clhnwlexk001108jtzp0aw03j/project/3086021" alt="ebmarque's 42 Born2beroot Score" /></a><br>
 <h3>get_next_line</h3>
-<a href=""><img src="https://badge42.vercel.app/api/v2/clhnwlexk001108jtzp0aw03j/project/3079328" alt="ebmarque's 42 get_next_line Score" /></a><br>
+<a href="https://github.com/V4R3J4O/GET_NEXT_LINE#get_next_line"><img src="https://badge42.vercel.app/api/v2/clhnwlexk001108jtzp0aw03j/project/3079328" alt="ebmarque's 42 get_next_line Score" /></a><br>
 <h3>ft_printf</h3>
-<a href=""><img src="https://badge42.vercel.app/api/v2/clhnwlexk001108jtzp0aw03j/project/3075538" alt="ebmarque's 42 ft_printf Score" /></a><br>
+<a href="https://github.com/V4R3J4O/FT_PRINTF#ft_printf"><img src="https://badge42.vercel.app/api/v2/clhnwlexk001108jtzp0aw03j/project/3075538" alt="ebmarque's 42 ft_printf Score" /></a><br>
 <h3>Libft</h3>
-<a href=""><img src="https://badge42.vercel.app/api/v2/clhnwlexk001108jtzp0aw03j/project/3060971" alt="ebmarque's 42 Libft Score" /></a><br>
+<a href="https://github.com/V4R3J4O/LIBFT#libft"><img src="https://badge42.vercel.app/api/v2/clhnwlexk001108jtzp0aw03j/project/3060971" alt="ebmarque's 42 Libft Score" /></a><br>
 
 <!-- Footer -->
 <p align="center">
