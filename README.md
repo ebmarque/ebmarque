@@ -1,6 +1,7 @@
-<!-- Banner -->
+![fluffkevlar-starfield-gif](https://github.com/V4R3J4O/v4r3j4o/assets/117827602/d4a9a7ab-d3e0-48d7-9d3e-e0aca8a46941)
 
 <!-- Introduction -->
+
 ### Hi there, I'm Ebenézer Marquezine (V4R3J4O) ✌
 I am a Brazilian mechanical engineer who moved to Portugal in 2017 to complete my studies. Despite my background in mechanical engineering, I have always had a great passion for technology and I am an enthusiast in the software engineering field.
 
