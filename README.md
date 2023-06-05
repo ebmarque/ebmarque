@@ -7,7 +7,6 @@ I am a Brazilian mechanical engineer who moved to Portugal in 2017 to complete m
 
 In January 2023, I decided to pursue my passion and applied to the 42 Porto school. I was approved in the selection process and am now diligently working on the common core projects with great pleasure. I am a highly intelligent person with good communication skills and perform well in group work.
 
-A funny fact about this GitHub profile is that it was created in late 2022 when I was taking my first steps in the world of programming and discovering versioning tools. My nickname given by my friends in games has always been (V4R3J4O), and I ended up using this name as my username here, and it has remained so since then :D.
 
 <!-- Social Media Badges -->
 
