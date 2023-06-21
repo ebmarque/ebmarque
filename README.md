@@ -1,6 +1,6 @@
 <!-- Introduction -->
 
-### Hi there, I'm Ebenézer Marquezine (V4R3J4O) ✌
+### Hi there, I'm Ebenézer Marquezine (Ebmarque) ✌
 I am a Brazilian mechanical engineer who moved to Portugal in 2017 to complete my studies. Despite my background in mechanical engineering, I have always had a great passion for technology and I am an enthusiast in the software engineering field.
 
 In January 2023, I decided to pursue my passion and applied to the 42 Porto school. I was approved in the selection process and am now diligently working on the common core projects with great pleasure. I am a highly intelligent person with good communication skills and perform well in group work.
