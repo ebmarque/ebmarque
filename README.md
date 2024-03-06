@@ -18,7 +18,7 @@ In January 2023, I decided to pursue my passion and applied to the 42 Porto scho
 ### Some of the tools I use 🛠️
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,c,vscode,bash,github" />
+    <img src="https://skillicons.dev/icons?i=git,linux,windows,c,cpp,vim,vscode,bash,github" />
   </a>
 </p>
 
