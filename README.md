@@ -1,7 +1,7 @@
 <!-- Introduction -->
 
 ### Hi there, I'm Ebenézer Marquezine (Ebmarque) ✌
-PortugalAmbitious professional with a background in Mechanical Engineering and strong mathematical skills. Currentlyrefining programming skills at 42 Porto, an immersive coding school. Passionate about technology and eagerto apply expertise and problem-solving abilities to innovative projects in the tech field.
+Ambitious professional with a background in Mechanical Engineering and strong mathematical skills. Currentlyrefining programming skills at 42 Porto, an immersive coding school. Passionate about technology and eagerto apply expertise and problem-solving abilities to innovative projects in the tech field.
 
 
 <!-- Social Media Badges -->
