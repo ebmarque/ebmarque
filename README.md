@@ -12,13 +12,13 @@ and problem-solving abilities to innovative projects in the tech field.
 
 | Project Name | | Grade | RANK |
 |--------------|-|------|-------------|
-| Libft | [![libft](https://github.com/ebmarque/ebmarque/blob/main/.badges/Libft.png.png)](https://github.com/ebmarque/LIBFT) | 125 | 0 |
-| Ft_Printf | [![ft_printf](https://github.com/ebmarque/ebmarque/blob/main/.badges/Printf.png.png)](https://github.com/ebmarque/FT_PRINTF) | 100 | 1 |
-| Get Next Line | [![gnl](https://github.com/ebmarque/ebmarque/blob/main/.badges/Gnl.ng.png)](https://github.com/ebmarque/GET_NEXT_LINE) | 125 | 1 |
-| Pipex | [![pipex](https://github.com/ebmarque/ebmarque/blob/main/.badges/Pipex.png.png)](https://github.com/ebmarque/Pipex) | 125 | 2 |
-| FDF | [![fdf](https://github.com/ebmarque/ebmarque/blob/main/.badges/Fdf.png.png)](https://github.com/ebmarque/FDF) | 125 | 2 |
-| Philosophers | [![philosophers](https://github.com/ebmarque/ebmarque/blob/main/.badges/Philosophers.png.png)](https://github.com/ebmarque/Philosophers) | 100 | 3 |
-| Minishell | [![Minishell](https://github.com/ebmarque/ebmarque/blob/main/.badges/Minishell.png.png)](https://github.com/ebmarque/Minishell) | 100 | 3 |
+| Libft | <img src="https://github.com/ebmarque/ebmarque/blob/main/.badges/Libft.png.png" width="100" height="100"> | 125 | 0 |
+| Ft_Printf | <img src="https://github.com/ebmarque/ebmarque/blob/main/.badges/Printf.png.png" width="100" height="100"> | 100 | 1 |
+| Get Next Line | <img src="https://github.com/ebmarque/ebmarque/blob/main/.badges/Gnl.ng.png" width="100" height="100"> | 125 | 1 |
+| Pipex | <img src="https://github.com/ebmarque/ebmarque/blob/main/.badges/Pipex.png.png" width="100" height="100"> | 125 | 2 |
+| FDF | <img src="https://github.com/ebmarque/ebmarque/blob/main/.badges/Fdf.png.png" width="100" height="100"> | 125 | 2 |
+| Philosophers | <img src="https://github.com/ebmarque/ebmarque/blob/main/.badges/Philosophers.png.png" width="100" height="100"> | 100 | 3 |
+| Minishell | <img src="https://github.com/ebmarque/ebmarque/blob/main/.badges/Minishell.png.png" width="100" height="100"> | 100 | 3 |
 
 <!-- Social Media Badges -->
 
