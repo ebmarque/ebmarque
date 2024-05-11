@@ -10,15 +10,15 @@ and problem-solving abilities to innovative projects in the tech field.
 
 ## Projects 🚀
 
-| Project Name | | Grade | RANK |
+| RANK | Project Name | | Grade |
 |--------------|-|------|-------------|
-| Libft | <img src="https://github.com/ebmarque/ebmarque/blob/main/.badges/Libft.png.png" width="100" height="100"> | 125 | 0 |
-| Ft_Printf | <img src="https://github.com/ebmarque/ebmarque/blob/main/.badges/Printf.png.png" width="100" height="100"> | 100 | 1 |
-| Get Next Line | <img src="https://github.com/ebmarque/ebmarque/blob/main/.badges/Gnl.ng.png" width="100" height="100"> | 125 | 1 |
-| Pipex | <img src="https://github.com/ebmarque/ebmarque/blob/main/.badges/Pipex.png.png" width="100" height="100"> | 125 | 2 |
-| FDF | <img src="https://github.com/ebmarque/ebmarque/blob/main/.badges/Fdf.png.png" width="100" height="100"> | 125 | 2 |
-| Philosophers | <img src="https://github.com/ebmarque/ebmarque/blob/main/.badges/Philosophers.png.png" width="100" height="100"> | 100 | 3 |
-| Minishell | <img src="https://github.com/ebmarque/ebmarque/blob/main/.badges/Minishell.png.png" width="100" height="100"> | 100 | 3 |
+| 0 | Libft | <img src="https://github.com/ebmarque/ebmarque/blob/main/.badges/Libft.png.png" width="100" height="100"> | 125 |
+| 1 | Ft_Printf | <img src="https://github.com/ebmarque/ebmarque/blob/main/.badges/Printf.png.png" width="100" height="100"> | 100 |
+| 1 | Get Next Line | <img src="https://github.com/ebmarque/ebmarque/blob/main/.badges/Gnl.ng.png" width="100" height="100"> | 125 |
+| 2 | Pipex | <img src="https://github.com/ebmarque/ebmarque/blob/main/.badges/Pipex.png.png" width="100" height="100"> | 125 |
+| 2 | FDF | <img src="https://github.com/ebmarque/ebmarque/blob/main/.badges/Fdf.png.png" width="100" height="100"> | 125 |
+| 3 | Philosophers | <img src="https://github.com/ebmarque/ebmarque/blob/main/.badges/Philosophers.png.png" width="100" height="100"> | 100 |
+| 3 | Minishell | <img src="https://github.com/ebmarque/ebmarque/blob/main/.badges/Minishell.png.png" width="100" height="100"> | 100 |
 
 <!-- Social Media Badges -->
 
