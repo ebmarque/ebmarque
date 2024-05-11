@@ -14,7 +14,7 @@ and problem-solving abilities to innovative projects in the tech field.
 |--------------|-|------|-------------|
 | Libft | [![libft](https://github.com/ebmarque/ebmarque/blob/main/.badges/Libft.png.png)](https://github.com/ebmarque/LIBFT) | 125 | 0 |
 | Ft_Printf | [![ft_printf](https://github.com/ebmarque/ebmarque/blob/main/.badges/Printf.png.png)](https://github.com/ebmarque/FT_PRINTF) | 100 | 1 |
-| Get Next Line | [![gnl](https://github.com/ebmarque/ebmarque/blob/main/.badges/Printf.png.png)](https://github.com/ebmarque/GET_NEXT_LINE) | 125 | 1 |
+| Get Next Line | [![gnl](https://github.com/ebmarque/ebmarque/blob/main/.badges/Gnl.ng.png)](https://github.com/ebmarque/GET_NEXT_LINE) | 125 | 1 |
 | Pipex | [![pipex](https://github.com/ebmarque/ebmarque/blob/main/.badges/Pipex.png.png)](https://github.com/ebmarque/Pipex) | 125 | 2 |
 | FDF | [![fdf](https://github.com/ebmarque/ebmarque/blob/main/.badges/Fdf.png.png)](https://github.com/ebmarque/FDF) | 125 | 2 |
 | Philosophers | [![philosophers](https://github.com/ebmarque/ebmarque/blob/main/.badges/Philosophers.png.png)](https://github.com/ebmarque/Philosophers) | 100 | 3 |
