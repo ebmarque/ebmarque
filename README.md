@@ -14,9 +14,9 @@
 ---
 
 ## Projects 🚀
-
-### 42 Projects
-
+<div align="center">
+	<h2>42 Projects</h2>
+</div>
 <table style="width:100%;border-collapse:collapse;background-color:#161b22;border:1px solid #30363d;">
     <thead>
         <tr>
@@ -96,14 +96,18 @@
     </tbody>
 </table>
 
+<div align="center">
+<h2>GitHub Stats</h2>
+</div>
 
 <div class="stats-container">
 	<img src="https://github-readme-stats.vercel.app/api?username=ebmarque&show_icons=true&theme=dark" alt="GitHub Stats">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebmarque&layout=compact&langs_count=10&theme=dark" alt="Top Languages">
 </div>
 
-
-## Skills 🛠️
+<div align="center">
+<h2>Skills 🛠️</h2>
+</div>
 
 <div align="center">
     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"></a>
