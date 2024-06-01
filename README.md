@@ -101,10 +101,11 @@
 <div align="center">
 <h2>GitHub Stats</h2>
 </div>
-
-<div class="stats-container">
-	<img src="https://github-readme-stats.vercel.app/api?username=ebmarque&show_icons=true&theme=dark" alt="GitHub Stats">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebmarque&layout=compact&langs_count=10&theme=dark" alt="Top Languages">
+<div align="center">
+	<div class="stats-container">
+		<img src="https://github-readme-stats.vercel.app/api?username=ebmarque&show_icons=true&theme=dark" alt="GitHub Stats">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebmarque&layout=compact&langs_count=10&theme=dark" alt="Top Languages">
+	</div>
 </div>
 
 <div align="center">
