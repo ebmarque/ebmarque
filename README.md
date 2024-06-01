@@ -17,6 +17,8 @@
 <div align="center">
 	<h2>42 Projects</h2>
 </div>
+<div align="center">
+
 <table style="width:100%;border-collapse:collapse;background-color:#161b22;border:1px solid #30363d;">
     <thead>
         <tr>
@@ -95,7 +97,7 @@
         </tr>
     </tbody>
 </table>
-
+</div>
 <div align="center">
 <h2>GitHub Stats</h2>
 </div>
