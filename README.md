@@ -112,17 +112,17 @@
 </div>
 
 <div align="center">
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"></a>
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"></a>
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="50" height="50"></a>
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50"></a>
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50"></a>
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50"></a>
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50"></a>
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vim" alt="Vim" width="50" height="50"></a>
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="50" height="50"></a>
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" height="50"></a>
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"></a>
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50">
+    <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="50" height="50">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50">
+    <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50">
+    <img src="https://skillicons.dev/icons?i=vim" alt="Vim" width="50" height="50">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="50" height="50">
+    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" height="50">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50">
 </div>
 
 ---
