@@ -101,13 +101,17 @@
 <div align="center">
 <h2>GitHub Stats</h2>
 </div>
-<div align="center">
-	<div class="stats-container">
+<!-- <div align="center">
 		<img src="https://github-readme-stats.vercel.app/api?username=ebmarque&show_icons=true&theme=dark" alt="GitHub Stats">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebmarque&layout=compact&langs_count=10&theme=dark" alt="Top Languages">
-	</div>
-</div>
+ -->
+<div align="center">
+<div class="stats-container">
+ 
+[![ebmarque's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebmarque&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&bg_color=00000000&theme=nightowl)](https://github.com/ebmarque?tab=repositories) [![ebmarque's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sopadegalinha&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&theme=nightowl)](https://github.com/ebmarque?tab=repositories)
 
+</div>
+</div align="center">
 <div align="center">
 <h2>Skills 🛠️</h2>
 </div>
@@ -131,4 +135,7 @@
 <!-- Footer -->
 <p align="center">
  Ebenézer Marquezine
+<p align="center">
+    <img alt="ebmarque's visitors" src="https://komarev.com/ghpvc/?username=sopadegalinha&color=8c36db&style=flat&label=visitors" />
+</p>
 </p>
