@@ -108,7 +108,7 @@
 <div align="center">
 <div class="stats-container">
  
-[![ebmarque's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebmarque&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&bg_color=00000000&theme=nightowl)](https://github.com/ebmarque?tab=repositories) [![ebmarque's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sopadegalinha&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&theme=nightowl)](https://github.com/ebmarque?tab=repositories)
+[![ebmarque's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebmarque&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&bg_color=00000000&theme=nightowl)](https://github.com/ebmarque?tab=repositories) [![ebmarque's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ebmarque&count_private=true&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&theme=nightowl)](https://github.com/ebmarque?tab=repositories)
 
 </div>
 </div align="center">
