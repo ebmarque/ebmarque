@@ -117,19 +117,37 @@
 <h2>Skills 🛠️</h2>
 </div>
 
+
+###
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50">
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50">
-    <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="50" height="50">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50">
-    <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50">
-    <img src="https://skillicons.dev/icons?i=vim" alt="Vim" width="50" height="50">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="50" height="50">
-    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" height="50">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="js logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="ts logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="html logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
+
+###
 
 ---
 
