@@ -55,7 +55,7 @@ Create a platform where multiple players can interact in real time, with:
 - ⚙ **Advanced caching** and data sharding.
 ---
 ## 🚀 Some repos of my current project
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ft-transcendence-2025&repo=User-Management&theme=dark)](https://github.com/ft-transcendence-2025/User-Managemen)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ft-transcendence-2025&repo=User-Management&theme=dark)](https://github.com/ft-transcendence-2025/User-Management)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ft-transcendence-2025&repo=API-Gateway&theme=dark)](https://github.com/ft-transcendence-2025/API-Gateway)
 > 🗝 **Explore more of the Code** — Available at [ft-transcendence-2025 Organization](https://github.com/ft-transcendence-2025)
 ---
